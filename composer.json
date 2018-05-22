@@ -1,0 +1,16 @@
+{
+    "authors": [
+        {
+            "name": "Yoshiyuki Sakamoto",
+            "email": "stb_yoshiyuki-s@hotmail.co.jp"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "LegolandScraper\\": "src"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "~6.0"
+    }
+}
